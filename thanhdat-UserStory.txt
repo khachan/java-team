@@ -1,0 +1,43 @@
+Website Manager
+
+	Role: Admin/Member
+
+	Admin Manager Page:
+	Edit member info (Admin)
+	Delete Member (Admin)
+	Block user (Admin)
+
+	Authentication:
+	Login/Logout  (Admin/Member)
+	Register (Member)
+	Forgot password  (Admin/Member)
+
+Category Manager
+
+Add New Category(Admin)
+Edit Category(Admin)
+Delete Category(Admin)
+Show categories (Admin/Member)
+
+Product Manager
+
+Add New Product(s)(Admin)
+Edit Product(s)(Admin)
+Delete Product(s)(Admin)
+Show List Of Product(Admin/Member)
+Search Product(s)(Admin/Member)
+
+Purchase & Payment
+
+Add To Cart (Admin/Member)
+Order Detail (Admin/Member)
+Payment Action (Admin/Member)
+Reciept Generate (Admin/Member)
+
+Other Manager (optional)
+Infomation for page (change: address,phone number, contact info, slogan)
+Statistic Manager(online count, post count, sales statistic)
+
+
+
+
